@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "nav2-path-pruning-cost",
+  "repository": "https://github.com/jpgordon00/ci-nav2-path-pruning-cost",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/nav2-path-pruning-cost/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/nav2-path-pruning-cost",
+  "catalog_commit": "c2be45e6ee0403d38cf146d1a540cf33ccd89065"
+}
